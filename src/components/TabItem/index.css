@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-item-container {
+  display: flex;
+  height: 40px;
+  list-style-type: none;
+
+  background-color: transparent;
+}
+.tab-btn {
+  color: #7b8794;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  border-bottom: 2px solid #dfe2e5;
+  outline: none;
+  cursor: pointer;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
